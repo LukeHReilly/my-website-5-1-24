@@ -21,3 +21,13 @@ p {
   div li{
     font-size: smaller;
   }
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+img{
+  background-color: rgb(170, 59, 15);
+  padding: 5px;
+}
