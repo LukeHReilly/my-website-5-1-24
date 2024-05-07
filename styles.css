@@ -1,16 +1,13 @@
 p {
     line-height: 2;
 }
-#Hot_Soup {
-    color: rgb(189, 68, 43);
-  }
   a {
-    background-color: powderblue;
+    background-color: rgba(17, 0, 255, 0);
     transition: background-color 0.5s;
   }
   
   a:hover {
-    background-color: rgb(199, 228, 224);
+    background-color: rgb(255, 255, 255);
   }
   p {
     font: italic small-caps bold 15px/30px Arial, serif;
@@ -27,7 +24,22 @@ p {
     padding: 0;
     background-color: #f0f0f0;
 }
-img{
-  background-color: rgb(170, 59, 15);
-  padding: 5px;
+
+header {
+  background-color: #0059ff46;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 10px 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #0059ff46;
+  color: white;
 }

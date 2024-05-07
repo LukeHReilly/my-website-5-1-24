@@ -44,3 +44,8 @@ main {
     column-gap: 40px;
     column-rule: 2px solid black; 
 }
+main {
+    column-count: 4;
+    column-gap: 40px;
+    column-rule: 2px solid black; 
+}
