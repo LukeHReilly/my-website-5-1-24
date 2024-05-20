@@ -68,3 +68,32 @@ main {
   @media only screen and (max-width: 796px) {
     
   } 
+  flex-container {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 200px; 
+    border: 2px solid #000000; 
+  }
+  
+  .flex-item {
+    width: 250px; 
+    height: 100px; 
+    background-color: #ffffff; 
+    margin: 15px; 
+  }
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns with equal width */
+    grid-gap: 20px; /* Gap between grid items */
+    padding: 20px;
+}
+.grid-item {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
