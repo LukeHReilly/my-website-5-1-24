@@ -1,0 +1,4 @@
+Critique 1: Repitition
+I decided to fix some of the repitition in my pages, adding new content, with some new ideas.
+Critique 2: Error in danny-brown-early life.html where users were getting 404 error.
+I fixed this error by properly putting the href tag in both danny-brown-early life.html and index.html
