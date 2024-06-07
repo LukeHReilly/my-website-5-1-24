@@ -61,7 +61,7 @@ main {
 footer {
   text-align: center;
   padding: 10px;
-  background-color: #0059ff46;
+  background-color: #7aa9ff;
   color: white;
   position: fixed;
   bottom: 0;
@@ -108,4 +108,7 @@ footer a {
   height: 100px; 
   background-color: #ffffff; 
   margin: 15px; 
+}
+img {
+    border: 5px solid black;
 }
